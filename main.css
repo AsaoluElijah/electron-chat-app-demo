@@ -47,7 +47,8 @@ aside > h3 {
 
 #chat {
   flex: 1 1 auto;
-  padding: 1rem;
+  padding: 10px;
+  line-height: 20px;
 }
 
 #chat-status-msg {
